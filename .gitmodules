@@ -1,0 +1,4 @@
+﻿[submodule "Plugins/P_MEIS"]
+path = Plugins/P_MEIS
+url = https://github.com/punal100/P_MEIS.git
+branch = main
