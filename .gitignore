@@ -6,6 +6,7 @@
 /*.sln
 /*.code-workspace
 /.ignore
+/.github/*
 
 # Ignore developers folder
 /Content/Developers/*
@@ -58,3 +59,4 @@ Content/Config/config.json
 
 # Ignore Other files
 PLAN.md
+PLAN_WBP_SCRIPT.md
