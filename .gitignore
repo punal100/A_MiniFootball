@@ -6,6 +6,7 @@
 /*.sln
 /*.code-workspace
 /.ignore
+/.github/*
 
 # Ignore developers folder
 /Content/Developers/*
@@ -22,6 +23,8 @@
 /Saved/*
 /enc_temp_folder/*
 /Source/Deps/Build/*
+/DevTools/output
+/DevTools/ci/Artifacts
 
 # Ignore the same things for plugins
 #/Plugins/**/Build/*
@@ -58,3 +61,4 @@ Content/Config/config.json
 
 # Ignore Other files
 PLAN.md
+PLAN_WBP_SCRIPT.md
