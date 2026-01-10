@@ -1,4 +1,16 @@
-﻿[submodule "Plugins/P_MEIS"]
+[submodule "Plugins/P_MEIS"]
 path = Plugins/P_MEIS
 url = https://github.com/punal100/P_MEIS.git
+branch = main
+[submodule "Plugins/P_EAIS"]
+path = Plugins/P_EAIS
+url = https://github.com/punal100/P_EAIS.git
+branch = main
+[submodule "Plugins/P_MiniFootball"]
+path = Plugins/P_MiniFootball
+url = https://github.com/punal100/P_MiniFootball.git
+branch = main
+[submodule "Plugins/P_MWCS"]
+path = Plugins/P_MWCS
+url = https://github.com/punal100/P_MWCS.git
 branch = main
